@@ -1,7 +1,7 @@
 # Braccio++InverseKinematics
 Inverse Kinematics solver for the Arduino Braccio++ robot arm. The library calculates joint angles based on the given end effector position.
 
-![assembly](https://https://github.com/tuftsceeo/Braccio-InverseKinematics/blob/main/img/assembly.png)
+![assembly](https://github.com/tuftsceeo/Braccio-InverseKinematics/blob/main/img/assembly.gif)
 
 ## Instructioons
 Download this library as a .zip file and install it using your Arduino IDE by going under Sketch->Add .zip library. Once downloaded, it can be included in any file by including the header file:
